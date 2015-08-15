@@ -1,6 +1,6 @@
 #AuthType Basic
-#AuthName "Preview Site"
+#AuthName "Preview"
 #AuthUserFile /home/86539/.htpasswd
 #AuthGroupFile /home/86539/.htgroup
 #Require group preview
-#Require user larry
+#Require user pacifism21
